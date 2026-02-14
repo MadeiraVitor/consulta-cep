@@ -31,7 +31,7 @@ A aplicação permite que o usuário informe um **CEP válido**, realiza uma req
 
 
 🚀 Deploy do projeto:
-<a href="https://product-card-two-zeta.vercel.app/" target="_blank">Deploy</a>
+<a href="https://consulta-cep-fawn.vercel.app/" target="_blank">Deploy</a>
 
 
 ---
